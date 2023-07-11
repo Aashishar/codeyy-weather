@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Codeyy Weather',
+      title: 'Codeyy Weather developed by codebyte tech',
       debugShowCheckedModeBanner: false,
       theme: ThemeData.from(
         colorScheme: const ColorScheme.light(),
